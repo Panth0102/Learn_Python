@@ -13,4 +13,4 @@ print(a[5:])
 print(a[-6:])
 
 if 'A' in a:    #Checking condition in tuple
-    print('A is found in tuple')
+    print('A is found in tuple') 

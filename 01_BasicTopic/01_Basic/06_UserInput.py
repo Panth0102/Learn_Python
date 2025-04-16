@@ -1,0 +1,8 @@
+a = input('Enter a string: ')
+b = int(input('Enter a number: '))
+c = float(input('Enter a floating variable: '))
+d = bool(input('Enter a boolena(true-1 or false-0): '))
+print(a)
+print(b)
+print(c)
+print(d)
